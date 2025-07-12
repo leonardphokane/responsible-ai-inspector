@@ -5,7 +5,6 @@
 Created as part of a Responsible AI assignment for the PLP program, this open-source repo shares ethics in action through storytelling, inspection, and design correction.
 
 ---
-![Bias Inspector Badge](assets/bias_inspector_badge.png)
 ## 🔍 Case Files
 
 ### 1️⃣ The Hiring Bot with Hidden Bias
