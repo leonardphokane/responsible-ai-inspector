@@ -39,7 +39,7 @@ Full write-ups live in [`CASE_NOTES.md`](CASE_NOTES.md)
 
 🌱 Use This Format
 Got your own audit story? Fork this repo, drop in your notebook and blog-style narrative — then submit a pull request.
-...
+---
 Bias is rarely accidental. Accountability shouldn't be optional.
 
 👤 Author
