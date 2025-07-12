@@ -36,3 +36,13 @@ Full write-ups live in [`CASE_NOTES.md`](CASE_NOTES.md)
 ├── .gitignore             # Repo hygiene rules
 ├── assets/                # Visual elements (badges, screenshots)
 
+🌱 Use This Format
+Got your own audit story? Fork this repo, drop in your notebook and blog-style narrative — then submit a pull request.
+
+Bias is rarely accidental. Accountability shouldn't be optional.
+
+👤 Author
+Leonard Phokane Ethical AI Advocate · Creative Technologist 🔗 GitHub Portfolio 🌐 Portfolio Site
+
+📄 License
+Released under MIT License — use, remix, and share responsibly.
