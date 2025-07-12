@@ -42,8 +42,8 @@ Got your own audit story? Fork this repo, drop in your notebook and blog-style n
 
 Bias is rarely accidental. Accountability shouldn't be optional.
 
-👤 Author
+## 👤 Author
 Leonard Phokane Ethical AI Advocate · Creative Technologist 🔗 GitHub Portfolio 🌐 Portfolio Site
 
-📄 License
+## 📄 License
 Released under MIT License — use, remix, and share responsibly.
