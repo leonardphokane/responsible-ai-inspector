@@ -1,6 +1,7 @@
 # 🕵️‍♂️ Responsible AI Inspector
 
 A short case study collection investigating how artificial intelligence systems can go wrong — and how we can design them better. Created as part of a Responsible AI assignment for the PLP program, this repo showcases ethics in action through two fictional scenarios.
+![Bias Inspector Badge](assets/bias_inspector_badge.png)
 
 ## 🔍 Case Files
 
